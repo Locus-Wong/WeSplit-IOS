@@ -1,5 +1,5 @@
 # WeSplit
-This is an iOS app for splitting the bill.
+This is an iOS app for calculating bill splits.
 <br/>
 <img width="350" alt="image" src="https://github.com/user-attachments/assets/6693bc8e-b7e4-46e2-b0d8-58f3abe9ed71" />
 <img width="347" alt="image" src="https://github.com/user-attachments/assets/76b25faa-c19b-4d21-afb9-cc9abb2a23c1" />
