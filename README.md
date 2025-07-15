@@ -5,6 +5,7 @@ This is an iOS app for calculating bill splits.
 <img width="342" height="684" alt="image" src="https://github.com/user-attachments/assets/bf4972bc-d9b0-4602-bf98-b96bf0d239ec" />
 <p>Editing the amount of bill</p>
 <img width="339" height="683" alt="image" src="https://github.com/user-attachments/assets/f5c6fef8-3f4a-4a2c-9480-a5ca1acb67e6" />
+<img width="338" height="684" alt="image" src="https://github.com/user-attachments/assets/6f0770a6-7620-4336-b4fc-3c9c9b2e915b" />
 
 
 <img width="347" alt="image" src="https://github.com/user-attachments/assets/76b25faa-c19b-4d21-afb9-cc9abb2a23c1" />
