@@ -58,6 +58,12 @@ struct ContentView: View {
                             Text($0, format: .percent)
                         }
                     }.pickerStyle(.navigationLink)
+                    
+                    Picker("Tip percentage", selection:$tipPercentage){
+                        ForEach(tipPercentages, id: \.self){
+                            Text($0, format: .percent)
+                        }
+                    }.pickerStyle(.segmented)
                 }
                 Section("Amount per person"){
                     Text(
