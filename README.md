@@ -18,7 +18,6 @@ This is an iOS app for calculating bill splits.
 <img width="343" height="683" alt="image" src="https://github.com/user-attachments/assets/e09a2375-2a87-4981-861f-51896c16c1fc" />
 
 
-<img width="350" alt="image" src="https://github.com/user-attachments/assets/2b2d42eb-eb54-433e-85ce-f9fc563d93e3" />
 <img width="345" alt="image" src="https://github.com/user-attachments/assets/8449efae-de74-4ae5-8f26-ddbba9c8aa92" />
 
 
